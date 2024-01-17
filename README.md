@@ -1,5 +1,4 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--h1 without bottom border-->
 
@@ -7,6 +6,8 @@
   <ul align="left">
     <summary><h1 style="display: inline-block">Ola👋, sou Gustavo Bakir</h1></summary>
   </ul>
+  <!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre Mim
@@ -21,7 +22,7 @@
 
 <br>
 
-## 🛠️ My Skills
+## 🛠️  Habilidades
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
