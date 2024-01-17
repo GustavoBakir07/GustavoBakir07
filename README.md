@@ -14,7 +14,7 @@
 
 - :school: Sou aluno desenvolver full stack da escola [Infinty School](https://infinityschool.com.br/)
 - :technologist: **Atualmente a procura do primeiro emprego** 
-- :boom: Você pode visitar [MEU SITE](https://eliochiu.github.io) para obter algum conhecimento de HTLM e CSS
+- :boom: Você pode visitar [MEU SITE]() para obter algum conhecimento de HTLM e CSS
 - :email:**Sinta-se à vontade para entrar em contato comigo** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=gustavobakir&amp;color=EA4335&amp;style=flat-square)](mailto:gustavobakir@hotmail.com)
 - :nerd_face: Acredite Sempre `"You are what you loved"`
 
